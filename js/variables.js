@@ -11,7 +11,4 @@ const URL = "www.google.com";
 var firstName = "Kostantin";
 let lastName = "Volkov";
 let age = 31;
-let person = { name: "Konstantin", age: 31 };
 var array = [1, 2, 3, 4, 5];
-
-console.log(person);
